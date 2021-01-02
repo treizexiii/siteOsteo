@@ -47,7 +47,7 @@
   integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous">
 </script>
 <script src="js/script.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBMklHpRCMbTUnwhKzJBSh42vObmlS0Lv0&callback=initMap" defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=[ApiKey]&callback=initMap" defer></script>
 </body>
 
 </html>
