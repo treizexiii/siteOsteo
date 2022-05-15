@@ -3,7 +3,7 @@
         <div class="col-md-12">
             <a href="https://www.doctolib.fr/osteopathe/orsay/thibault-laurence" target="blank">
                 <div class="col-md-12 border border-secondary rounded" style="background-color: #D7CCC8;">
-                    <h5 style="color:black;">Prise de rendez-vous cliquez ici (DOCTOLIB.FR)</h2>
+                    <h5 style="color:black;">Prise de rendez-vous cliquez ici (DOCTOLIB.FR)</h5>
                 </div>
             </a>
         </div>
@@ -25,11 +25,10 @@
                         <div class="card-body">
                             <h5 class="card-title">Thibault Laurence</h5>
                             <p class="card-text mb-4"><small class="text-muted">Ostéopathe D.O / D.F.O</small></p>
-                            <p class="card-text" style="text-align: justify;">Diplômé de l'école supérieure d'Ostéopathie (ESO) de
-                                Marne-la-Vallée, formation en 6 ans dont 3 années en clinique en parallèle du cursus, je pratique aussi
-                                bien les techniques articulaires et tissulaires que viscérales et crâniennes et continue d’évoluer en
-                                participant à de nombreux séminaires. Cela me permet de prendre connaissance des dernières avancées
-                                scientifiques et technologiques en la matière.</p>
+                            <p class="card-text" style="text-align: justify;">Vous accueille du Lundi au Samedi sur ses 3 cabinets de Palaiseau, Orsay et Gif sur Yvette.<br>
+                                Issu d'une formation initiale en 6 ans (ESO Paris) dont 3 années en clinique, associée à de nombreux séminaires, cela me permet de traiter du <a href="<?= $router->generate('tarif') ?>#Nourrisson">bébé</a> au <a href="<?= $router->generate('tarif') ?>#Senior">sénior</a> en passant par la <a href="<?= $router->generate('tarif') ?>#FemmeEnceinte">femme enceinte</a> et le <a href="<?= $router->generate('tarif')?>#Sportif">sportif</a> de manière spécialisée.<br>
+                                Vous vous demandez si l'ostéopathie peut traiter vos douleurs? N'hésitez pas à me joindre afin que l'on en discute. (Si répondeur, sachez que les messages sont systématiquement écoutés et je vous rappelle dans l'heure).<br>
+                                À bientôt !</p></p>
                             </p>
                         </div>
                     </div>
